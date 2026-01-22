@@ -149,7 +149,7 @@ const Index = () => {
             <div className="relative animate-fade-in">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/c4b821e4-a432-4e4f-b0bb-6efa38ae5c2e.jpg"
+                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/e14a8415-96ec-4d9b-9853-810e5f92b70c.jpg"
                 alt="Стеклянный турникет"
                 className="relative rounded-3xl shadow-2xl w-full hover:scale-105 transition-transform duration-500"
               />
@@ -237,7 +237,7 @@ const Index = () => {
             <div className="relative order-2 lg:order-1">
               <div className="absolute inset-0 bg-gradient-to-br from-secondary/20 to-primary/20 rounded-3xl blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/db37e401-2e81-4e93-ad34-8d6b69b92534.jpg"
+                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/9485ac2c-e216-48cb-92fe-681135f4d8f9.jpg"
                 alt="Производство в Новосибирске"
                 className="relative rounded-3xl shadow-2xl w-full"
               />
