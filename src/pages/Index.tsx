@@ -103,7 +103,7 @@ const Index = () => {
               <Icon name="Lock" size={24} className="text-white" />
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              GlassTech
+              TAURUS
             </span>
           </div>
           <nav className="hidden md:flex gap-8">
@@ -148,8 +148,8 @@ const Index = () => {
             <div className="relative animate-fade-in">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/19cf4e82-f4c4-4398-bba5-e9be0b60e7fa.jpg"
-                alt="Карусельные стеклянные двери"
+                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/ee895fc0-ebd8-4b36-8113-6346a3a9c257.jpg"
+                alt="Карусельные двери TAURUS"
                 className="relative rounded-3xl shadow-2xl w-full hover:scale-105 transition-transform duration-500"
               />
             </div>
@@ -236,8 +236,8 @@ const Index = () => {
             <div className="relative order-2 lg:order-1">
               <div className="absolute inset-0 bg-gradient-to-br from-secondary/20 to-primary/20 rounded-3xl blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/402a3f09-b982-42ae-8065-b5235a95bb73.jpg"
-                alt="Карусельные двери в интерьере"
+                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/2e99ddb0-42c7-467b-bf9e-18563f45cddc.jpg"
+                alt="TAURUS карусельные двери в интерьере"
                 className="relative rounded-3xl shadow-2xl w-full"
               />
             </div>
@@ -349,7 +349,7 @@ const Index = () => {
                   <Icon name="Lock" size={24} className="text-white" />
                 </div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                  GlassTech
+                  TAURUS
                 </span>
               </div>
               <p className="text-foreground/70">
