@@ -124,18 +124,17 @@ const Index = () => {
             <div className="space-y-8 animate-fade-in">
               <div className="inline-block">
                 <span className="px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-semibold">
-                  Инновационные решения контроля доступа
+                  Аналог DORMAKABA GEYRON
                 </span>
               </div>
               <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
-                Стеклянные турникеты
+                Карусельные двери
                 <span className="block bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                  нового поколения
+                  премиум-класса
                 </span>
               </h1>
               <p className="text-xl text-foreground/70">
-                Премиальные решения для контроля доступа с безупречным дизайном и передовыми технологиями.
-                Производство в России без компромиссов по качеству.
+                Российский аналог DORMAKABA GEYRON. Премиальные автоматические карусельные двери с безупречным дизайном и передовыми технологиями для вашего бизнеса.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="bg-gradient-to-r from-primary to-secondary hover:opacity-90 text-lg">
@@ -149,8 +148,8 @@ const Index = () => {
             <div className="relative animate-fade-in">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/e14a8415-96ec-4d9b-9853-810e5f92b70c.jpg"
-                alt="Стеклянный турникет"
+                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/19cf4e82-f4c4-4398-bba5-e9be0b60e7fa.jpg"
+                alt="Карусельные стеклянные двери"
                 className="relative rounded-3xl shadow-2xl w-full hover:scale-105 transition-transform duration-500"
               />
             </div>
@@ -237,8 +236,8 @@ const Index = () => {
             <div className="relative order-2 lg:order-1">
               <div className="absolute inset-0 bg-gradient-to-br from-secondary/20 to-primary/20 rounded-3xl blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/9485ac2c-e216-48cb-92fe-681135f4d8f9.jpg"
-                alt="Производство в Новосибирске"
+                src="https://cdn.poehali.dev/projects/c221ceea-ba01-47ec-a154-b012d7d5175e/files/402a3f09-b982-42ae-8065-b5235a95bb73.jpg"
+                alt="Карусельные двери в интерьере"
                 className="relative rounded-3xl shadow-2xl w-full"
               />
             </div>
